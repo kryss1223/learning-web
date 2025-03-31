@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px) {
+    /* Estilos específicos para pantallas de hasta 768px de ancho (tablets y móviles) */
+    body {
+        margin: 0;
+    }
+    
+    .navbar{
+        background-color:orange;
+        width: auto;
+        height: 40px;
+    }
+
+    .lessons_main{
+        padding: 5%;
+    }
+}
